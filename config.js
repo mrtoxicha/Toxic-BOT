@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['263719455720', 'Toxic', true],
+  ['263714105654', 'Misheck', true], 
   [''] 
 ] //Number of owners
 
@@ -52,27 +52,27 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'Toxic┃ᴮᴼᵀ' 
+global.author = '@Ngaakudzwe Dzizangwe' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.igfg = '▢ Follow on Instagram\n https://www.instagram.com/ytrill1?igsh=aGRnZnBuOXh2NXZo \n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgsc = 'https://github.com/Mrtoxiccha/GURU-BOT' 
+global.fgyt = 'https://youtube.com/@codingiseasy'
+global.fgpyp = 'https://youtube.com/@codiniseasy'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
+global.rwait = '⌛_Processing...'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '3' 
+global.maxwarn = '2' 
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
